@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Swiftstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not owned by us.
+> The only official places to download Swiftstrap are this GitHub repository. Any other websites offering downloads or claiming to be us are not owned by us.
 
 
 <p align="center">
